@@ -1,0 +1,11 @@
+Concepts covered in this assignment
+
+Django ORM: A Python ORM component of the Django web application framework, where each Django model maps to a database table.
+
+PostgreSQL or Postgres: An open-source relational database management system used by Django.
+
+Psycopg: An interface used by Django for working with PostgreSQL.
+
+PGAdmin: Anadmin and development tool for managing PostgreSQL server.
+
+Database migrations: The management of version-controlled, incremental and reversible changes to relational database schemas to update or revert the schema to a newer or older version
