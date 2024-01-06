@@ -1,4 +1,5 @@
-Concepts covered in the lab
+concepts learned in this mini project:
+
 Django project: Defines the structure of your application and configuration files.
 
 Django app: A Django application that includes models , views , templates, URLs, and other resources like static files.
