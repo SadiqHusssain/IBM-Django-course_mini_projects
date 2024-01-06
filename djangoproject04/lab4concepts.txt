@@ -1,0 +1,14 @@
+Concepts covered in the lab
+Django project: Defines the structure of your application and configuration files.
+
+Django app: A Django application that includes models , views , templates, URLs, and other resources like static files.
+
+View: A function that determines what to do with incoming requests, and how to generate the corresponding response.
+
+URL or urls.py: Serves as the central URL configuration for your application, mapping incoming URL patterns to corresponding view functions or class-based views.
+
+Template: A file that defines the structure and presentation of the output to be rendered and displayed in a web browser.
+
+Docker: An open-source platform that allows you to automate the deployment and management of applications within isolated environments called containers.
+
+Containerization: An isolated environment that contains all the necessary dependencies and configurations required for an application to run reliably across different computing environments.
